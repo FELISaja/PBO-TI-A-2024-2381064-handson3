@@ -1,9 +1,5 @@
 package Tugas1;
 
-import org.w3c.dom.ls.LSOutput;
-
-import java.security.spec.RSAOtherPrimeInfo;
-import java.util.Scanner;
 
 public class soal2 {
     public static void main(String[] args) {
